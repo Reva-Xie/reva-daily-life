@@ -1,0 +1,13 @@
+{
+  "name": "Reva’s Daily Life",
+  "short_name": "Reva",
+  "description": "Reva 的科研、生活、饮食、跳舞与阅读工作台",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ece9ef",
+  "theme_color": "#74677d",
+  "icons": [
+    {"src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
